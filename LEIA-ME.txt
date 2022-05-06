@@ -1,0 +1,9 @@
+"LEIA-ME"
+
+projeto desenvolvido para estudo de versionamento em TI.
+
+
+por Julia_Silva 
+
+
+05/05/22 - início e criação do projeto de versionamento,utilização do GIT e GITHUB.
